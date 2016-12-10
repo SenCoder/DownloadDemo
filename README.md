@@ -92,5 +92,4 @@ dm.startTask(i);
 dm.pauseTask(i);
 // restart after pause
 dm.resumeTask(i);
-dm.
 ```

@@ -32,7 +32,7 @@ We need to include these permissions in the AndroidManifest.xml.
 ## Let's get started
 
 ```java
-DownloadManager dm = mDownloadManager = new DownloadManager(getContext());
+DownloadManager dm = new DownloadManager(getContext());
 dm.setProgressListener(new ProgressListener() {
     @Override
     public void onProgressUpdate() {

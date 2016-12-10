@@ -1,5 +1,5 @@
 # DownloadDemo
-App download demo with asnyncTask.
+App download demo with asnyncTask on Android Studio.
 
 ![image](https://github.com/SenCoder/DownloadDemo/blob/master/states.png)
 
